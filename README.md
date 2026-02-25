@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I’m Mostafa – Software Engineer specialized in Java 8 & Python, with 2 years of experience developing backend systems for HealthTech and HSE domains.<br><br>I design, implement, and optimize REST APIs, handle complex data processing, and build dynamic forms and microservices for enterprise-level applications. My focus is on performance-oriented solutions, leveraging PostgreSQL (CTE, JSONB, query optimization) and Hybrid/Multi-Model databases for large datasets.<br><br>💻 Core Expertise<br><br>Java & Backend Development: Servlet/JSP, Microservices, Transaction-Based Architecture, REST API design.<br><br>Python Projects: Independent projects outside of the company environment.<br><br>Database Management: PostgreSQL (complex queries, JSONB, performance tuning, indexing), Hybrid/Multi-Model DBs.<br><br>Performance Optimization: Efficient query design, correct filtering, and CTE-based solutions for scalable systems.<br><br>Frontend & Scripting: JavaScript enhancements, BPMS-based dynamic form development.<br><br>🛠 Engineering Practices<br><br>Practically worked with Transaction Script patterns; conceptually familiar with Factory & Strategy patterns.<br><br>Applied Single Responsibility Principle and low coupling in real projects; aware of SOLID concepts.<br><br>Familiar with Clean Architecture principles; prefer layered design (Domain-Service-Repository) for greenfield projects.<br><br>Manual testing & query validation in production; concepts of Unit & Integration Testing understood and ready to implement in structured projects.<br><br>Git (self-taught) for version control, Linux (self-taught) including Asterisk configuration and SIP/Voicemail setup.<br><br>🌐 Domains & Projects<br><br>Worked on multiple enterprise systems, including:<br><br>Health & Wellness: Nasim Health Tracking Center, National Bank Patient Monitoring, Hospital Adl & Bank Shahr health systems, Davis Clinic systems.<br><br>Energy & Corporate Projects: Pasargad Energy Expansion Program, Ofoq Kourosh system.<br><br>HSE Systems: Environmental health monitoring applications.<br><br>⚡ Approach<br><br>I thrive in complex backend development, optimizing both performance and maintainability while delivering business-critical features. My work style balances practical solutions with conceptual understanding of modern software architecture, ready to adapt to larger-scale or international projects.
 
-<!--
-**mostafagovahi07/mostafagovahi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafagovahi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mostafagovahi) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mostafa Govahi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mostafagovahi07@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mostafagovahi07&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mostafagovahi07&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafagovahi07&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mostafagovahi07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mostafagovahi07&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
